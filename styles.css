@@ -3,9 +3,10 @@
 }
 
 .card_style {
-    max-width: 314px;
+    max-width: 322px;
     box-shadow: 10px 10px 5px 0 rgba(0, 0, 0, 0.20);
     background-color: #c5d5c5;
+    padding: 10px;
 }
 
 .border {
@@ -15,14 +16,11 @@
 
 .title {
     width: 300px;
-    margin: 10px 5px 5px 5px;
-    /*border: 1px solid black;*/
 }
 
 .picture {
     height: 200px;
     width: 300px;
-    margin: 5px;
 }
 
 .interesting_fact {
@@ -32,7 +30,6 @@
 .information {
     width: 300px;
     padding: 10px;
-    margin: 5px 5px 10px 5px;
     background-color: #f0f0f0;
 }
 
